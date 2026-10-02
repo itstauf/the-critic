@@ -1,0 +1,11 @@
+# Your real drafts, sources and logs stay local
+drafts/
+raw/
+log/
+*.review.md
+
+# Editors and OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
